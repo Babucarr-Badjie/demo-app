@@ -1,0 +1,18 @@
+/* css with id root */
+#root {
+  text-align: center;
+  color: white;
+  background-color: grey;
+}
+/* to add a background image to the page
+1. download the image and save it in the desktop
+2. Right click on the image you want to set as a background
+3. click on properties and copy the image location address 
+4. change the forward-slash to back-slash and then add the file name
+e.g C:\Users\user\Desktop-->C:/Users/user/Desktop/trees.jpg 
+where tress.jpg is the file name */
+
+body {
+  background: url("C:/Users/user/Desktop/Background Images/Shark.jpg");
+}
+
